@@ -55,6 +55,7 @@ tfoot {
 table{
 	width: 850px;
 	font-size: medium;
+	
 }
 .th{
 	font-size: large;
@@ -67,4 +68,15 @@ table{
 label {
     padding-right: 10px;
 	font-size: 1rem;
+}
+#img {
+	width: 75px;
+	height:75px;
+	float: right ;
+	margin-top: -3.4%;
+	
+}
+
+body{
+	cursor: url("cursor.png"), pointer;
 }
